@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Borgqvist
+    given-names: Johannes Gabriel
+    orcid:  https://orcid.org/0000-0001-6441-2942
+title: "A python implementation for the symmetry based framework for model selection."
+version: 1.0
+doi: https://github.com/JohannesBorgqvist/symmetry_based_model_selsection_carcinogenesis
+date-released: 2022-03-15
